@@ -1,0 +1,16 @@
+# Sensitive configuration
+stmp_config.php
+
+# Dependencies
+vendor/
+
+# Local/test files
+test.php
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
