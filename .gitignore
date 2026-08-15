@@ -13,3 +13,9 @@ test.php
 # OS files
 .DS_Store
 Thumbs.db
+
+# XAMPP default files
+/xampp/
+/applications.html
+/bitnami.css
+/IMG-20231106-WA0001.jpg
