@@ -1,6 +1,5 @@
 # Sensitive configuration
 smtp_config.php
-
 # Dependencies
 vendor/
 
