@@ -1,5 +1,5 @@
 # Sensitive configuration
-stmp_config.php
+smtp_config.php
 
 # Dependencies
 vendor/
