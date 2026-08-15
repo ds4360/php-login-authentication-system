@@ -1,10 +1,10 @@
 
 <?php
 
-$smtp_username = "ds4360731@gmail.com";
+$smtp_username = "YOUR EMAIL";
 
 // यहाँ अपना नया Gmail App Password डालो
-$smtp_password = "gvbc bpxm soeo yawa
+$smtp_password = "YOUR_APP_PASSWORD
 ";
 
 ?>
