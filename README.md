@@ -92,7 +92,7 @@ Create the required MySQL database and configure the database connection accordi
 Open your browser and visit:
 
 ```text
-http://localhost/index.php
+http://localhost/login.php
 ```
 
 ## 🔐 Security
